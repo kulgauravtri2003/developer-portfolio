@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Full Stack Web Developer',
     company: "Site Guru",
-    duration: "(July 2022 - Aug 2022)"
+    duration: "(July 2024 - Aug 2024)"
   },
   
   {
